@@ -23,7 +23,8 @@ span {
 .balloon1 {
     width: 738px;
     margin: 0 auto;
-    padding-top: 0px;
+    margin-top: 50px;
+    padding-top: 70px;
     position: relative;
 }
 .balloon1 > div {
@@ -449,7 +450,8 @@ h1 {
 header {
 	background: url('http://www.autodatz.com/wp-content/uploads/2017/05/Old-Car-Wallpapers-Hd-36-with-Old-Car-Wallpapers-Hd.jpg');
 	text-align: center;
-	width: 100%;
+    width: 100%;
+    margin-top: -50px;
 	height: auto;
 	background-size: cover;
 	background-attachment: fixed;
@@ -459,8 +461,9 @@ header {
 }
 header .overlay{
 	width: 100%;
-	height: 100%;
-	padding: 50px;
+    height: auto;
+    margin-top: -50px;
+	padding: 100px 50px 120px 50px;
 	color: #FFF;
 	text-shadow: 1px 1px 1px #333;
   background-image: linear-gradient( 135deg, #9f05ff69 10%, #fd5e086b 100%);
