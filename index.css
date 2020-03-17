@@ -508,7 +508,7 @@ button:hover{
     content: '';
     position: absolute;
     width: 6px;
-    background-color: blueviolet;
+    background-color: beige;
     top: 0;
     bottom: 0;
     left: 50%;
@@ -527,10 +527,10 @@ button:hover{
   .container1::after {
     content: '';
     position: absolute;
-    width: 25px;
+    width: 32px;
     height: 25px;
     right: -17px;
-    background-color: white;
+    background-color: beige;
     border: 4px solid #FF9F55;
     top: 15px;
     border-radius: 50%;
@@ -556,9 +556,9 @@ button:hover{
     width: 0;
     z-index: 1;
     right: 30px;
-    border: medium solid white;
+    border: medium solid beige;
     border-width: 10px 0 10px 10px;
-    border-color: transparent transparent transparent white;
+    border-color: transparent transparent transparent beige;
   }
   
   /* Add arrows to the right container (pointing left) */
@@ -605,9 +605,9 @@ button:hover{
     /* Make sure that all arrows are pointing leftwards */
     .container1::before {
     left: 60px;
-    border: medium solid white;
+    border: medium solid beige;
     border-width: 10px 10px 10px 0;
-    border-color: transparent white transparent transparent;
+    border-color: transparent beige transparent transparent;
     }
   
     /* Make sure all circles are at the same spot */
