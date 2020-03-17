@@ -544,6 +544,13 @@ button:hover{
     padding: 0px 10px;
     border-radius: 15px;
   }
-  
+  .container1.left:hover{
+    z-index: 10;
+    border: 1px solid sandybrown;
+  }
+  .container1.right:hover{
+    z-index: 10;
+    border: 1px solid sandybrown;
+  }
   /* Media queries - Responsive timeline on screens less than 600px wide */
   
