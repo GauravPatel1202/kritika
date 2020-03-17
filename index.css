@@ -11,7 +11,7 @@ background-image: -webkit-radial-gradient(#374566, #010203);
 background-image: -moz-radial-gradient(#374566, #010203);
 background-image: -o-radial-gradient(#374566, #010203);
 background-image: radial-gradient(#374566, #010203);
-background-image: url(images/backgroundsection.png);
+background-image: url(backgroundsection.png);
 width: fit-content;
 
 }
@@ -536,6 +536,13 @@ button:hover{
     background-color: beige;
     position: relative;
     border-radius: 6px;
+  }
+  .card_img{
+    width: 100px;
+    height: 100px;
+    float: left;
+    padding: 0px 10px;
+    border-radius: 15px;
   }
   
   /* Media queries - Responsive timeline on screens less than 600px wide */
