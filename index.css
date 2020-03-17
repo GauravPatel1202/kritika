@@ -552,5 +552,10 @@ button:hover{
     z-index: 10;
     border: 1px solid sandybrown;
   }
+  .carousel_img{
+    width:205px;
+    height:350px !important;
+    float: left;
+  }
   /* Media queries - Responsive timeline on screens less than 600px wide */
   
