@@ -1,7 +1,7 @@
  /* If you can't see it just hit space in here*/
  body {
     font-family:'Wendy One', sans-serif;
-    width: fit-content;
+    width: 100%;
 
 }
 
@@ -413,10 +413,9 @@ header .overlay{
     height: auto;
     margin-top: -70px;
 	padding: 100px 50px 120px 50px;
-	color: white;
-	text-shadow: 1px 1px 1px #333;
-    background-image: linear-gradient( 135deg, #0597ff69 10%, #fd08085c 100%);
 	
+	text-shadow: 1px 1px 1px #333;
+  	
 }
 
 h1 {
