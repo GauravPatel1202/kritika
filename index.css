@@ -578,5 +578,10 @@ iframe{
 .colour{
     color: red;
 }
+.avatar {
+   
+    width: calc(100%/3.5);
+        margin: 2%;
+}
   /* Media queries - Responsive timeline on screens less than 600px wide */
   
