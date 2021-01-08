@@ -11,7 +11,7 @@ background-image: -webkit-radial-gradient(#374566, #010203);
 background-image: -moz-radial-gradient(#374566, #010203);
 background-image: -o-radial-gradient(#374566, #010203);
 background-image: radial-gradient(#374566, #010203);
-background-image: url(backgroundsection.png);
+  background: #fff url('https://subtlepatterns.com/patterns/gplaypattern.png') repeat;
 
 }
 span {
